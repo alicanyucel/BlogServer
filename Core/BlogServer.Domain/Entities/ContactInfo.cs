@@ -11,3 +11,4 @@ public class ContactInfo : BaseEntity
     public string Phone { get; set; }
     public string MapUrl { get; set; }
 }
+//
